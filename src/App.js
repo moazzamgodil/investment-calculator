@@ -35,7 +35,7 @@ function App() {
       <Header />
 
       <UserInput />
-
+    
       <ResultsTable />
     </div>
   );
