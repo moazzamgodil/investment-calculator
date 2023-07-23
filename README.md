@@ -1,5 +1,5 @@
 # investment-calculator
-It is an app which helps user to calculate profit of investments. This app is written with using of React.
+This is an application which intended to help a user to calculate a profit of the investments. This app is written with usage of the React.
 
 # How to use the application
 A user can input next information about their investments:
